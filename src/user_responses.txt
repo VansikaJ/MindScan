@@ -1,0 +1,17 @@
+Question ID,Answer Text,Score
+1,Always,4
+2,Often,3
+3,Always,4
+4,Sometimes,2
+5,Often,3
+6,Rarely,1
+7,Always,4
+8,Often,3
+9,Always,4
+10,Sometimes,2
+11,Often,3
+12,Always,4
+13,Sometimes,2
+14,Often,3
+15,Always,4
+16,Often,3
